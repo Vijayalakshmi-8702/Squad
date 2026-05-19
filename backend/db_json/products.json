@@ -1,0 +1,3637 @@
+[
+  {
+    "id": 1,
+    "name": "Luxury Velvet Sofa",
+    "category": "sofa",
+    "price": 33693,
+    "originalPrice": 39639,
+    "rating": 4.9,
+    "reviews": 7,
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality luxury velvet sofa crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": false,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      },
+      {
+        "id": "rev_1779184976976",
+        "user": "Guest User",
+        "rating": 5,
+        "comment": "Superb craftsmanship and highly comfortable!",
+        "date": "19/5/2026"
+      },
+      {
+        "id": "rev_1779186773074",
+        "user": "Guest User",
+        "rating": 5,
+        "comment": "Superb craftsmanship and highly comfortable!",
+        "date": "19/5/2026"
+      },
+      {
+        "id": "rev_1779187044086",
+        "user": "Guest User",
+        "rating": 5,
+        "comment": "Superb craftsmanship and highly comfortable!",
+        "date": "19/5/2026"
+      },
+      {
+        "id": "rev_1779187459582",
+        "user": "Guest User",
+        "rating": 5,
+        "comment": "Superb craftsmanship and highly comfortable!",
+        "date": "19/5/2026"
+      },
+      {
+        "id": "rev_1779187591431",
+        "user": "Guest User",
+        "rating": 5,
+        "comment": "Superb craftsmanship and highly comfortable!",
+        "date": "19/5/2026"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "L-Shaped Sectional Sofa",
+    "category": "sofa",
+    "price": 43003,
+    "originalPrice": 50592,
+    "rating": 4.8,
+    "reviews": 473,
+    "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality l-shaped sectional sofa crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chesterfield Leather Sofa",
+    "category": "sofa",
+    "price": 36254,
+    "originalPrice": 42652,
+    "rating": 4.1,
+    "reviews": 76,
+    "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality chesterfield leather sofa crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Minimalist Daybed Sofa",
+    "category": "sofa",
+    "price": 38036,
+    "originalPrice": 44748,
+    "rating": 4,
+    "reviews": 464,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality minimalist daybed sofa crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Modern Futon Sleeper",
+    "category": "sofa",
+    "price": 28948,
+    "originalPrice": 34056,
+    "rating": 4.1,
+    "reviews": 454,
+    "image": "https://images.unsplash.com/photo-1549497538-303791108f95?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality modern futon sleeper crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Luxury Velvet Sofa v2",
+    "category": "sofa",
+    "price": 41059,
+    "originalPrice": 48305,
+    "rating": 4.4,
+    "reviews": 476,
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality luxury velvet sofa crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "L-Shaped Sectional Sofa v2",
+    "category": "sofa",
+    "price": 44630,
+    "originalPrice": 52506,
+    "rating": 5,
+    "reviews": 138,
+    "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality l-shaped sectional sofa crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Chesterfield Leather Sofa v2",
+    "category": "sofa",
+    "price": 43465,
+    "originalPrice": 51135,
+    "rating": 4.9,
+    "reviews": 483,
+    "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&q=80",
+    "badge": "New",
+    "description": "Premium quality chesterfield leather sofa crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Minimalist Daybed Sofa v2",
+    "category": "sofa",
+    "price": 35287,
+    "originalPrice": 41514,
+    "rating": 4.5,
+    "reviews": 140,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality minimalist daybed sofa crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Modern Futon Sleeper v2",
+    "category": "sofa",
+    "price": 43063,
+    "originalPrice": 50662,
+    "rating": 4.2,
+    "reviews": 279,
+    "image": "https://images.unsplash.com/photo-1549497538-303791108f95?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality modern futon sleeper crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": false,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Luxury Velvet Sofa v3",
+    "category": "sofa",
+    "price": 36906,
+    "originalPrice": 43419,
+    "rating": 5,
+    "reviews": 341,
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality luxury velvet sofa crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "L-Shaped Sectional Sofa v3",
+    "category": "sofa",
+    "price": 29344,
+    "originalPrice": 34522,
+    "rating": 4.5,
+    "reviews": 105,
+    "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality l-shaped sectional sofa crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Chesterfield Leather Sofa v3",
+    "category": "sofa",
+    "price": 34995,
+    "originalPrice": 41171,
+    "rating": 4.9,
+    "reviews": 53,
+    "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality chesterfield leather sofa crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Minimalist Daybed Sofa v3",
+    "category": "sofa",
+    "price": 37341,
+    "originalPrice": 43931,
+    "rating": 4.2,
+    "reviews": 272,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality minimalist daybed sofa crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Modern Futon Sleeper v3",
+    "category": "sofa",
+    "price": 27287,
+    "originalPrice": 32102,
+    "rating": 4.3,
+    "reviews": 414,
+    "image": "https://images.unsplash.com/photo-1549497538-303791108f95?w=800&q=80",
+    "badge": "New",
+    "description": "Premium quality modern futon sleeper crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Luxury Velvet Sofa v4",
+    "category": "sofa",
+    "price": 36342,
+    "originalPrice": 42755,
+    "rating": 4.7,
+    "reviews": 377,
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality luxury velvet sofa crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "L-Shaped Sectional Sofa v4",
+    "category": "sofa",
+    "price": 34051,
+    "originalPrice": 40060,
+    "rating": 4.7,
+    "reviews": 185,
+    "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality l-shaped sectional sofa crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Chesterfield Leather Sofa v4",
+    "category": "sofa",
+    "price": 34012,
+    "originalPrice": 40014,
+    "rating": 4.5,
+    "reviews": 200,
+    "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality chesterfield leather sofa crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Minimalist Daybed Sofa v4",
+    "category": "sofa",
+    "price": 38105,
+    "originalPrice": 44829,
+    "rating": 4.4,
+    "reviews": 452,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality minimalist daybed sofa crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": false,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Modern Futon Sleeper v4",
+    "category": "sofa",
+    "price": 36443,
+    "originalPrice": 42874,
+    "rating": 4,
+    "reviews": 190,
+    "image": "https://images.unsplash.com/photo-1549497538-303791108f95?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality modern futon sleeper crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Nordic Lounge Chair",
+    "category": "chair",
+    "price": 8478,
+    "originalPrice": 9974,
+    "rating": 4.9,
+    "reviews": 479,
+    "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality nordic lounge chair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": false,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Ergonomic Office Chair",
+    "category": "chair",
+    "price": 6648,
+    "originalPrice": 7821,
+    "rating": 4.2,
+    "reviews": 56,
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality ergonomic office chair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Wingback Accent Chair",
+    "category": "chair",
+    "price": 7311,
+    "originalPrice": 8601,
+    "rating": 4.3,
+    "reviews": 260,
+    "image": "https://images.unsplash.com/photo-1519947486511-46149fa0a254?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality wingback accent chair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Rattan Armchair",
+    "category": "chair",
+    "price": 9096,
+    "originalPrice": 10701,
+    "rating": 4.7,
+    "reviews": 417,
+    "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality rattan armchair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Rocking Leisure Chair",
+    "category": "chair",
+    "price": 9655,
+    "originalPrice": 11359,
+    "rating": 4.3,
+    "reviews": 242,
+    "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality rocking leisure chair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Nordic Lounge Chair v2",
+    "category": "chair",
+    "price": 9933,
+    "originalPrice": 11686,
+    "rating": 4.5,
+    "reviews": 443,
+    "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality nordic lounge chair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Ergonomic Office Chair v2",
+    "category": "chair",
+    "price": 10308,
+    "originalPrice": 12127,
+    "rating": 4.6,
+    "reviews": 245,
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality ergonomic office chair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Wingback Accent Chair v2",
+    "category": "chair",
+    "price": 9685,
+    "originalPrice": 11394,
+    "rating": 4.4,
+    "reviews": 326,
+    "image": "https://images.unsplash.com/photo-1519947486511-46149fa0a254?w=800&q=80",
+    "badge": "New",
+    "description": "Premium quality wingback accent chair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Rattan Armchair v2",
+    "category": "chair",
+    "price": 7055,
+    "originalPrice": 8300,
+    "rating": 4.1,
+    "reviews": 456,
+    "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality rattan armchair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Rocking Leisure Chair v2",
+    "category": "chair",
+    "price": 7954,
+    "originalPrice": 9358,
+    "rating": 4.8,
+    "reviews": 64,
+    "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality rocking leisure chair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": false,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Nordic Lounge Chair v3",
+    "category": "chair",
+    "price": 7688,
+    "originalPrice": 9045,
+    "rating": 4.4,
+    "reviews": 428,
+    "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality nordic lounge chair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Ergonomic Office Chair v3",
+    "category": "chair",
+    "price": 8887,
+    "originalPrice": 10455,
+    "rating": 4.2,
+    "reviews": 209,
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality ergonomic office chair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Wingback Accent Chair v3",
+    "category": "chair",
+    "price": 7046,
+    "originalPrice": 8289,
+    "rating": 4.5,
+    "reviews": 81,
+    "image": "https://images.unsplash.com/photo-1519947486511-46149fa0a254?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality wingback accent chair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Rattan Armchair v3",
+    "category": "chair",
+    "price": 7029,
+    "originalPrice": 8269,
+    "rating": 4.8,
+    "reviews": 479,
+    "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality rattan armchair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Rocking Leisure Chair v3",
+    "category": "chair",
+    "price": 6225,
+    "originalPrice": 7324,
+    "rating": 4.5,
+    "reviews": 326,
+    "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=800&q=80",
+    "badge": "New",
+    "description": "Premium quality rocking leisure chair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Nordic Lounge Chair v4",
+    "category": "chair",
+    "price": 7255,
+    "originalPrice": 8535,
+    "rating": 4.7,
+    "reviews": 214,
+    "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality nordic lounge chair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Ergonomic Office Chair v4",
+    "category": "chair",
+    "price": 7755,
+    "originalPrice": 9124,
+    "rating": 4.5,
+    "reviews": 357,
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality ergonomic office chair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Wingback Accent Chair v4",
+    "category": "chair",
+    "price": 8822,
+    "originalPrice": 10379,
+    "rating": 4.9,
+    "reviews": 274,
+    "image": "https://images.unsplash.com/photo-1519947486511-46149fa0a254?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality wingback accent chair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Rattan Armchair v4",
+    "category": "chair",
+    "price": 6573,
+    "originalPrice": 7733,
+    "rating": 4.3,
+    "reviews": 439,
+    "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality rattan armchair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": false,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Rocking Leisure Chair v4",
+    "category": "chair",
+    "price": 8438,
+    "originalPrice": 9927,
+    "rating": 4.1,
+    "reviews": 54,
+    "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality rocking leisure chair crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Solid Oak Dining Table",
+    "category": "table",
+    "price": 10134,
+    "originalPrice": 11922,
+    "rating": 4.7,
+    "reviews": 117,
+    "image": "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality solid oak dining table crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": false,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Walnut Coffee Table",
+    "category": "table",
+    "price": 12300,
+    "originalPrice": 14471,
+    "rating": 4.3,
+    "reviews": 54,
+    "image": "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality walnut coffee table crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Electric Standing Desk",
+    "category": "table",
+    "price": 9658,
+    "originalPrice": 11362,
+    "rating": 4.4,
+    "reviews": 144,
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality electric standing desk crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Glass Top Study Table",
+    "category": "table",
+    "price": 9839,
+    "originalPrice": 11575,
+    "rating": 4.1,
+    "reviews": 368,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality glass top study table crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Nesting Side Tables",
+    "category": "table",
+    "price": 11822,
+    "originalPrice": 13908,
+    "rating": 5,
+    "reviews": 127,
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality nesting side tables crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Solid Oak Dining Table v2",
+    "category": "table",
+    "price": 12612,
+    "originalPrice": 14838,
+    "rating": 5,
+    "reviews": 104,
+    "image": "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality solid oak dining table crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Walnut Coffee Table v2",
+    "category": "table",
+    "price": 15373,
+    "originalPrice": 18086,
+    "rating": 4.6,
+    "reviews": 290,
+    "image": "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality walnut coffee table crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Electric Standing Desk v2",
+    "category": "table",
+    "price": 10160,
+    "originalPrice": 11953,
+    "rating": 4.7,
+    "reviews": 456,
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800&q=80",
+    "badge": "New",
+    "description": "Premium quality electric standing desk crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Glass Top Study Table v2",
+    "category": "table",
+    "price": 13630,
+    "originalPrice": 16035,
+    "rating": 4.2,
+    "reviews": 324,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality glass top study table crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Nesting Side Tables v2",
+    "category": "table",
+    "price": 10360,
+    "originalPrice": 12188,
+    "rating": 4.9,
+    "reviews": 327,
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality nesting side tables crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": false,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Solid Oak Dining Table v3",
+    "category": "table",
+    "price": 9215,
+    "originalPrice": 10841,
+    "rating": 4.9,
+    "reviews": 104,
+    "image": "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality solid oak dining table crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Walnut Coffee Table v3",
+    "category": "table",
+    "price": 11243,
+    "originalPrice": 13227,
+    "rating": 4.9,
+    "reviews": 267,
+    "image": "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality walnut coffee table crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Electric Standing Desk v3",
+    "category": "table",
+    "price": 10489,
+    "originalPrice": 12340,
+    "rating": 4.4,
+    "reviews": 349,
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality electric standing desk crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Glass Top Study Table v3",
+    "category": "table",
+    "price": 15228,
+    "originalPrice": 17915,
+    "rating": 4.6,
+    "reviews": 122,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality glass top study table crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Nesting Side Tables v3",
+    "category": "table",
+    "price": 14682,
+    "originalPrice": 17273,
+    "rating": 4.2,
+    "reviews": 444,
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&q=80",
+    "badge": "New",
+    "description": "Premium quality nesting side tables crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Solid Oak Dining Table v4",
+    "category": "table",
+    "price": 11051,
+    "originalPrice": 13001,
+    "rating": 4.9,
+    "reviews": 188,
+    "image": "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality solid oak dining table crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Walnut Coffee Table v4",
+    "category": "table",
+    "price": 12715,
+    "originalPrice": 14959,
+    "rating": 4.9,
+    "reviews": 497,
+    "image": "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality walnut coffee table crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Electric Standing Desk v4",
+    "category": "table",
+    "price": 10840,
+    "originalPrice": 12753,
+    "rating": 4.2,
+    "reviews": 493,
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality electric standing desk crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Glass Top Study Table v4",
+    "category": "table",
+    "price": 12494,
+    "originalPrice": 14699,
+    "rating": 4.6,
+    "reviews": 145,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality glass top study table crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": false,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Nesting Side Tables v4",
+    "category": "table",
+    "price": 10728,
+    "originalPrice": 12621,
+    "rating": 4.5,
+    "reviews": 463,
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality nesting side tables crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "King Platform Bed",
+    "category": "bed",
+    "price": 33065,
+    "originalPrice": 38900,
+    "rating": 4.1,
+    "reviews": 107,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality king platform bed crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": false,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Wooden Canopy Bed",
+    "category": "bed",
+    "price": 34029,
+    "originalPrice": 40034,
+    "rating": 4.6,
+    "reviews": 81,
+    "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality wooden canopy bed crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Tufted Queen Bed",
+    "category": "bed",
+    "price": 20897,
+    "originalPrice": 24585,
+    "rating": 4.8,
+    "reviews": 397,
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality tufted queen bed crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Single Storage Bed",
+    "category": "bed",
+    "price": 23080,
+    "originalPrice": 27153,
+    "rating": 4.8,
+    "reviews": 198,
+    "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality single storage bed crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Memory Foam Mattress",
+    "category": "bed",
+    "price": 31177,
+    "originalPrice": 36679,
+    "rating": 4.6,
+    "reviews": 140,
+    "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality memory foam mattress crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "King Platform Bed v2",
+    "category": "bed",
+    "price": 27819,
+    "originalPrice": 32728,
+    "rating": 4.5,
+    "reviews": 181,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality king platform bed crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Wooden Canopy Bed v2",
+    "category": "bed",
+    "price": 30266,
+    "originalPrice": 35607,
+    "rating": 4,
+    "reviews": 58,
+    "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality wooden canopy bed crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Tufted Queen Bed v2",
+    "category": "bed",
+    "price": 30839,
+    "originalPrice": 36281,
+    "rating": 4.8,
+    "reviews": 370,
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+    "badge": "New",
+    "description": "Premium quality tufted queen bed crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Single Storage Bed v2",
+    "category": "bed",
+    "price": 32684,
+    "originalPrice": 38452,
+    "rating": 4.1,
+    "reviews": 314,
+    "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality single storage bed crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Memory Foam Mattress v2",
+    "category": "bed",
+    "price": 35849,
+    "originalPrice": 42175,
+    "rating": 4.2,
+    "reviews": 446,
+    "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality memory foam mattress crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": false,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "King Platform Bed v3",
+    "category": "bed",
+    "price": 35343,
+    "originalPrice": 41580,
+    "rating": 4.9,
+    "reviews": 407,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality king platform bed crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Wooden Canopy Bed v3",
+    "category": "bed",
+    "price": 33460,
+    "originalPrice": 39365,
+    "rating": 4.8,
+    "reviews": 203,
+    "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality wooden canopy bed crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Tufted Queen Bed v3",
+    "category": "bed",
+    "price": 29694,
+    "originalPrice": 34934,
+    "rating": 4.3,
+    "reviews": 296,
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality tufted queen bed crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Single Storage Bed v3",
+    "category": "bed",
+    "price": 21553,
+    "originalPrice": 25356,
+    "rating": 4.8,
+    "reviews": 234,
+    "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality single storage bed crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Memory Foam Mattress v3",
+    "category": "bed",
+    "price": 27807,
+    "originalPrice": 32714,
+    "rating": 4.2,
+    "reviews": 142,
+    "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&q=80",
+    "badge": "New",
+    "description": "Premium quality memory foam mattress crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "King Platform Bed v4",
+    "category": "bed",
+    "price": 27046,
+    "originalPrice": 31819,
+    "rating": 4.6,
+    "reviews": 298,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality king platform bed crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Wooden Canopy Bed v4",
+    "category": "bed",
+    "price": 33649,
+    "originalPrice": 39587,
+    "rating": 4.7,
+    "reviews": 489,
+    "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality wooden canopy bed crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Tufted Queen Bed v4",
+    "category": "bed",
+    "price": 33882,
+    "originalPrice": 39861,
+    "rating": 4.7,
+    "reviews": 393,
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality tufted queen bed crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Single Storage Bed v4",
+    "category": "bed",
+    "price": 21652,
+    "originalPrice": 25473,
+    "rating": 4.9,
+    "reviews": 214,
+    "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality single storage bed crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": false,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Memory Foam Mattress v4",
+    "category": "bed",
+    "price": 29348,
+    "originalPrice": 34527,
+    "rating": 4.7,
+    "reviews": 70,
+    "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality memory foam mattress crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Minimalist Bookshelf",
+    "category": "storage",
+    "price": 14201,
+    "originalPrice": 16707,
+    "rating": 4.6,
+    "reviews": 389,
+    "image": "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality minimalist bookshelf crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": false,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Oak Sideboard Cabinet",
+    "category": "storage",
+    "price": 11984,
+    "originalPrice": 14099,
+    "rating": 4.2,
+    "reviews": 90,
+    "image": "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality oak sideboard cabinet crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Modern Wardrobe Closet",
+    "category": "storage",
+    "price": 13567,
+    "originalPrice": 15961,
+    "rating": 4.5,
+    "reviews": 291,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality modern wardrobe closet crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "6-Drawer Dresser Chest",
+    "category": "storage",
+    "price": 10129,
+    "originalPrice": 11916,
+    "rating": 4.7,
+    "reviews": 229,
+    "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality 6-drawer dresser chest crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Floating Wall Shelves",
+    "category": "storage",
+    "price": 13074,
+    "originalPrice": 15381,
+    "rating": 4.7,
+    "reviews": 396,
+    "image": "https://images.unsplash.com/photo-1519947486511-46149fa0a254?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality floating wall shelves crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Minimalist Bookshelf v2",
+    "category": "storage",
+    "price": 10768,
+    "originalPrice": 12668,
+    "rating": 4.1,
+    "reviews": 390,
+    "image": "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality minimalist bookshelf crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Oak Sideboard Cabinet v2",
+    "category": "storage",
+    "price": 10546,
+    "originalPrice": 12407,
+    "rating": 4.6,
+    "reviews": 100,
+    "image": "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality oak sideboard cabinet crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Modern Wardrobe Closet v2",
+    "category": "storage",
+    "price": 10107,
+    "originalPrice": 11891,
+    "rating": 4.9,
+    "reviews": 445,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80",
+    "badge": "New",
+    "description": "Premium quality modern wardrobe closet crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "6-Drawer Dresser Chest v2",
+    "category": "storage",
+    "price": 9952,
+    "originalPrice": 11708,
+    "rating": 4.1,
+    "reviews": 320,
+    "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality 6-drawer dresser chest crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Floating Wall Shelves v2",
+    "category": "storage",
+    "price": 14071,
+    "originalPrice": 16554,
+    "rating": 4.8,
+    "reviews": 91,
+    "image": "https://images.unsplash.com/photo-1519947486511-46149fa0a254?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality floating wall shelves crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": false,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Minimalist Bookshelf v3",
+    "category": "storage",
+    "price": 10781,
+    "originalPrice": 12684,
+    "rating": 4,
+    "reviews": 410,
+    "image": "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality minimalist bookshelf crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Oak Sideboard Cabinet v3",
+    "category": "storage",
+    "price": 8202,
+    "originalPrice": 9649,
+    "rating": 4.8,
+    "reviews": 446,
+    "image": "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality oak sideboard cabinet crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Modern Wardrobe Closet v3",
+    "category": "storage",
+    "price": 12942,
+    "originalPrice": 15226,
+    "rating": 4.7,
+    "reviews": 416,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality modern wardrobe closet crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "6-Drawer Dresser Chest v3",
+    "category": "storage",
+    "price": 11941,
+    "originalPrice": 14048,
+    "rating": 4.9,
+    "reviews": 240,
+    "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality 6-drawer dresser chest crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Floating Wall Shelves v3",
+    "category": "storage",
+    "price": 11185,
+    "originalPrice": 13159,
+    "rating": 4.8,
+    "reviews": 240,
+    "image": "https://images.unsplash.com/photo-1519947486511-46149fa0a254?w=800&q=80",
+    "badge": "New",
+    "description": "Premium quality floating wall shelves crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Minimalist Bookshelf v4",
+    "category": "storage",
+    "price": 12628,
+    "originalPrice": 14856,
+    "rating": 4.5,
+    "reviews": 73,
+    "image": "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=800&q=80",
+    "badge": "Sale",
+    "description": "Premium quality minimalist bookshelf crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Oak Sideboard Cabinet v4",
+    "category": "storage",
+    "price": 13530,
+    "originalPrice": 15918,
+    "rating": 4.5,
+    "reviews": 447,
+    "image": "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality oak sideboard cabinet crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Modern Wardrobe Closet v4",
+    "category": "storage",
+    "price": 8969,
+    "originalPrice": 10552,
+    "rating": 4.4,
+    "reviews": 497,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality modern wardrobe closet crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "6-Drawer Dresser Chest v4",
+    "category": "storage",
+    "price": 12419,
+    "originalPrice": 14611,
+    "rating": 4.7,
+    "reviews": 436,
+    "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality 6-drawer dresser chest crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": false,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Floating Wall Shelves v4",
+    "category": "storage",
+    "price": 11522,
+    "originalPrice": 13555,
+    "rating": 4.6,
+    "reviews": 161,
+    "image": "https://images.unsplash.com/photo-1519947486511-46149fa0a254?w=800&q=80",
+    "badge": null,
+    "description": "Premium quality floating wall shelves crafted for modern lifestyles. Includes home delivery.",
+    "features": [
+      "Premium Quality",
+      "100% Authentic",
+      "1 Year Warranty",
+      "Express Shipping"
+    ],
+    "inStock": true,
+    "likesCount": 0,
+    "reviewsList": [
+      {
+        "id": "rev-1",
+        "user": "Amit Sharma",
+        "rating": 5,
+        "comment": "Exceptional build quality and very comfortable!",
+        "date": "12/04/2026"
+      },
+      {
+        "id": "rev-2",
+        "user": "Priya Nair",
+        "rating": 4,
+        "comment": "Great wood texture. Matches our living room design perfectly.",
+        "date": "18/04/2026"
+      }
+    ]
+  }
+]

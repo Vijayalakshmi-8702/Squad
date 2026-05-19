@@ -1,0 +1,911 @@
+[
+  {
+    "_id": "json_ord_1779087419563",
+    "id": 1779087418882,
+    "orderId": "ORD-7442",
+    "date": "18/05/2026",
+    "status": "Processing",
+    "currentStage": 0,
+    "tracking": [
+      {
+        "status": "Order Placed",
+        "date": "18/05/2026",
+        "completed": true,
+        "location": "Local Store"
+      },
+      {
+        "status": "Processing",
+        "date": "Processing",
+        "completed": false,
+        "location": "Warehouse Hub"
+      },
+      {
+        "status": "Shipped from USA",
+        "date": "Pending",
+        "completed": false,
+        "location": "Origin Facility"
+      },
+      {
+        "status": "Arrived in Destination Country",
+        "date": "Pending",
+        "completed": false,
+        "location": "Customs Office"
+      },
+      {
+        "status": "Out for Delivery",
+        "date": "Pending",
+        "completed": false,
+        "location": "Local Hub"
+      },
+      {
+        "status": "Delivered",
+        "date": "Pending",
+        "completed": false,
+        "location": "Shipping Address"
+      }
+    ],
+    "items": [
+      {
+        "id": 138,
+        "name": "Kung Pao Chicken Special v2",
+        "category": "chine",
+        "price": 487,
+        "originalPrice": 573,
+        "rating": 4.1,
+        "reviews": 426,
+        "image": "https://images.unsplash.com/photo-1525755662778-989d0524087e?w=800&q=80",
+        "badge": null,
+        "description": "Premium quality kung pao chicken special crafted for modern lifestyles. Includes home delivery.",
+        "features": [
+          "Premium Quality",
+          "100% Authentic",
+          "1 Year Warranty",
+          "Express Shipping"
+        ],
+        "inStock": true,
+        "likesCount": 0,
+        "reviewsList": [],
+        "quantity": 1
+      },
+      {
+        "id": 27,
+        "name": "iPhone 15 Pro Max v2",
+        "category": "mobile",
+        "price": 66949,
+        "originalPrice": 78764,
+        "rating": 4.6,
+        "reviews": 226,
+        "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=800&q=80",
+        "badge": null,
+        "description": "Premium quality iphone 15 pro max crafted for modern lifestyles. Includes home delivery.",
+        "features": [
+          "Premium Quality",
+          "100% Authentic",
+          "1 Year Warranty",
+          "Express Shipping"
+        ],
+        "inStock": true,
+        "likesCount": 0,
+        "reviewsList": [],
+        "quantity": 1
+      },
+      {
+        "id": 123,
+        "name": "Peking Roasted Duck",
+        "category": "chine",
+        "price": 800,
+        "originalPrice": 941,
+        "rating": 4.3,
+        "reviews": 455,
+        "image": "https://images.unsplash.com/photo-1526318896980-cf78c088247c?w=800&q=80",
+        "badge": null,
+        "description": "Premium quality peking roasted duck crafted for modern lifestyles. Includes home delivery.",
+        "features": [
+          "Premium Quality",
+          "100% Authentic",
+          "1 Year Warranty",
+          "Express Shipping"
+        ],
+        "inStock": true,
+        "likesCount": 0,
+        "reviewsList": [],
+        "quantity": 1
+      }
+    ],
+    "total": 80518.48,
+    "shipping": {
+      "firstName": "Vijay",
+      "lastName": "Kumar",
+      "email": "vijay@gmail.com",
+      "phone": "",
+      "address": "45 Wok Lane",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "country": "IN"
+    },
+    "tax": 12282.48,
+    "customer": "Vijay"
+  },
+  {
+    "_id": "json_ord_1779090413341",
+    "id": 1779090413154,
+    "orderId": "ORD-3020",
+    "date": "18/05/2026",
+    "status": "Processing",
+    "currentStage": 0,
+    "tracking": [
+      {
+        "status": "Order Placed",
+        "date": "18/05/2026",
+        "completed": true,
+        "location": "Local Store"
+      },
+      {
+        "status": "Processing",
+        "date": "Processing",
+        "completed": false,
+        "location": "Warehouse Hub"
+      },
+      {
+        "status": "Shipped from USA",
+        "date": "Pending",
+        "completed": false,
+        "location": "Origin Facility"
+      },
+      {
+        "status": "Arrived in Destination Country",
+        "date": "Pending",
+        "completed": false,
+        "location": "Customs Office"
+      },
+      {
+        "status": "Out for Delivery",
+        "date": "Pending",
+        "completed": false,
+        "location": "Local Hub"
+      },
+      {
+        "status": "Delivered",
+        "date": "Pending",
+        "completed": false,
+        "location": "Shipping Address"
+      }
+    ],
+    "items": [
+      {
+        "id": 2,
+        "name": "Sofa Set",
+        "category": "furniture",
+        "price": 24560,
+        "originalPrice": 28894,
+        "rating": 4.1,
+        "reviews": 206,
+        "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&q=80",
+        "badge": null,
+        "description": "Premium quality sofa set crafted for modern lifestyles. Includes home delivery.",
+        "features": [
+          "Premium Quality",
+          "100% Authentic",
+          "1 Year Warranty",
+          "Express Shipping"
+        ],
+        "inStock": true,
+        "likesCount": 0,
+        "reviewsList": [],
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Dining Table",
+        "category": "furniture",
+        "price": 25684,
+        "originalPrice": 30216,
+        "rating": 4.1,
+        "reviews": 226,
+        "image": "https://images.unsplash.com/photo-1549497538-303791108f95?w=800&q=80",
+        "badge": null,
+        "description": "Premium quality dining table crafted for modern lifestyles. Includes home delivery.",
+        "features": [
+          "Premium Quality",
+          "100% Authentic",
+          "1 Year Warranty",
+          "Express Shipping"
+        ],
+        "inStock": true,
+        "likesCount": 0,
+        "reviewsList": [],
+        "quantity": 1
+      }
+    ],
+    "total": 59287.92,
+    "shipping": {
+      "firstName": "Naveen",
+      "lastName": "Kumar",
+      "email": "vijayakumaz143@gmail.com",
+      "phone": "",
+      "address": "Polur, thiruvannamalai district",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "country": "IN"
+    },
+    "tax": 9043.92,
+    "customer": "vijayakumar"
+  },
+  {
+    "_id": "json_ord_1779173666994",
+    "id": 1779173666972,
+    "orderId": "ORD-9626",
+    "date": "5/19/2026",
+    "status": "Processing",
+    "currentStage": 0,
+    "tracking": [
+      {
+        "status": "Order Placed",
+        "date": "5/19/2026",
+        "completed": true,
+        "location": "Local Store"
+      },
+      {
+        "status": "Processing",
+        "date": "Processing",
+        "completed": false,
+        "location": "Warehouse Hub"
+      },
+      {
+        "status": "Shipped from USA",
+        "date": "Pending",
+        "completed": false,
+        "location": "Origin Facility"
+      },
+      {
+        "status": "Arrived in Destination Country",
+        "date": "Pending",
+        "completed": false,
+        "location": "Customs Office"
+      },
+      {
+        "status": "Out for Delivery",
+        "date": "Pending",
+        "completed": false,
+        "location": "Local Hub"
+      },
+      {
+        "status": "Delivered",
+        "date": "Pending",
+        "completed": false,
+        "location": "Shipping Address"
+      }
+    ],
+    "items": [
+      {
+        "id": 22,
+        "name": "Ergonomic Office Chair",
+        "category": "chair",
+        "price": 7401,
+        "originalPrice": 8707,
+        "rating": 4.4,
+        "reviews": 460,
+        "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800&q=80",
+        "badge": null,
+        "description": "Premium quality ergonomic office chair crafted for modern lifestyles. Includes home delivery.",
+        "features": [
+          "Premium Quality",
+          "100% Authentic",
+          "1 Year Warranty",
+          "Express Shipping"
+        ],
+        "inStock": true,
+        "likesCount": 0,
+        "reviewsList": [],
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "name": "L-Shaped Sectional Sofa",
+        "category": "sofa",
+        "price": 26236,
+        "originalPrice": 30866,
+        "rating": 4.7,
+        "reviews": 3,
+        "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=800&q=80",
+        "badge": null,
+        "description": "Premium quality l-shaped sectional sofa crafted for modern lifestyles. Includes home delivery.",
+        "features": [
+          "Premium Quality",
+          "100% Authentic",
+          "1 Year Warranty",
+          "Express Shipping"
+        ],
+        "inStock": true,
+        "likesCount": 0,
+        "reviewsList": [
+          {
+            "id": "rev-1",
+            "user": "Amit Sharma",
+            "rating": 5,
+            "comment": "Exceptional build quality and very comfortable!",
+            "date": "12/04/2026"
+          },
+          {
+            "id": "rev-2",
+            "user": "Priya Nair",
+            "rating": 4,
+            "comment": "Great wood texture. Matches our living room design perfectly.",
+            "date": "18/04/2026"
+          },
+          {
+            "id": "rev_1779172578452",
+            "user": "Guest User",
+            "rating": 5,
+            "comment": "This L-shaped sectional sofa is extremely comfortable and the solid-wood build quality is premium! Delivery was quick too.",
+            "date": "19/5/2026"
+          }
+        ],
+        "selectedColor": "#ab8100",
+        "quantity": 2
+      }
+    ],
+    "total": 58675.14,
+    "shippingAddress": "12, chennai, tamilnadu - 603202",
+    "tax": 10777.14,
+    "paymentMethod": "UPI (Google Pay)",
+    "paymentStatus": "Paid",
+    "transactionId": "TXN-4688955789",
+    "cardNumber": null,
+    "upiId": "demo@okaxis",
+    "customer": "Guest User",
+    "customerEmail": "guest@furnishopsy.com"
+  },
+  {
+    "_id": "json_ord_1779174882728",
+    "id": 1779174882728,
+    "orderId": "ORD-3778",
+    "date": "19/5/2026",
+    "status": "Processing",
+    "currentStage": 0,
+    "tracking": [
+      {
+        "status": "Order Placed",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Local Store"
+      },
+      {
+        "status": "Processing",
+        "date": "Processing",
+        "completed": false,
+        "location": "Warehouse Hub"
+      },
+      {
+        "status": "Shipped from USA",
+        "date": "Pending",
+        "completed": false,
+        "location": "Origin Facility"
+      },
+      {
+        "status": "Arrived in Destination Country",
+        "date": "Pending",
+        "completed": false,
+        "location": "Customs Office"
+      },
+      {
+        "status": "Out for Delivery",
+        "date": "Pending",
+        "completed": false,
+        "location": "Local Hub"
+      },
+      {
+        "status": "Delivered",
+        "date": "Pending",
+        "completed": false,
+        "location": "Shipping Address"
+      }
+    ],
+    "shippingInfo": {
+      "firstName": "Guest",
+      "lastName": "User",
+      "email": "guest@furnishopsy.com",
+      "phone": "9999999999",
+      "address": "123 Test St",
+      "city": "Test City",
+      "state": "Test State",
+      "zip": "123456",
+      "country": "IN"
+    },
+    "items": [
+      {
+        "name": "Luxury Velvet Sofa",
+        "price": 33217,
+        "quantity": 2,
+        "color": "Black"
+      }
+    ],
+    "totalPrice": 53147,
+    "paymentMethod": "COD",
+    "couponApplied": "FURNI20"
+  },
+  {
+    "_id": "json_ord_1779184328327",
+    "id": 1779184328327,
+    "orderId": "ORD-3047",
+    "date": "19/5/2026",
+    "status": "Processing",
+    "currentStage": 0,
+    "tracking": [
+      {
+        "status": "Order Placed",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Local Store"
+      },
+      {
+        "status": "Processing",
+        "date": "Processing",
+        "completed": false,
+        "location": "Warehouse Hub"
+      },
+      {
+        "status": "Shipped from USA",
+        "date": "Pending",
+        "completed": false,
+        "location": "Origin Facility"
+      },
+      {
+        "status": "Arrived in Destination Country",
+        "date": "Pending",
+        "completed": false,
+        "location": "Customs Office"
+      },
+      {
+        "status": "Out for Delivery",
+        "date": "Pending",
+        "completed": false,
+        "location": "Local Hub"
+      },
+      {
+        "status": "Delivered",
+        "date": "Pending",
+        "completed": false,
+        "location": "Shipping Address"
+      }
+    ],
+    "shippingInfo": {
+      "firstName": "Guest",
+      "lastName": "User",
+      "email": "guest@furnishopsy.com",
+      "phone": "9999999999",
+      "address": "123 Test St",
+      "city": "Test City",
+      "state": "Test State",
+      "zip": "123456",
+      "country": "IN"
+    },
+    "items": [
+      {
+        "name": "Luxury Velvet Sofa",
+        "price": 33217,
+        "quantity": 2,
+        "color": "Black"
+      }
+    ],
+    "totalPrice": 53147,
+    "paymentMethod": "COD",
+    "couponApplied": "FURNI20"
+  },
+  {
+    "_id": "json_ord_1779184565120",
+    "id": 1779184565120,
+    "orderId": "ORD-2789",
+    "date": "19/5/2026",
+    "status": "Shipped",
+    "currentStage": 2,
+    "tracking": [
+      {
+        "status": "Order Placed",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Local Store"
+      },
+      {
+        "status": "Processing",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Warehouse Hub"
+      },
+      {
+        "status": "Shipped from USA",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Origin Facility"
+      },
+      {
+        "status": "Arrived in Destination Country",
+        "date": "Pending",
+        "completed": false,
+        "location": "Customs Office"
+      },
+      {
+        "status": "Out for Delivery",
+        "date": "Pending",
+        "completed": false,
+        "location": "Local Hub"
+      },
+      {
+        "status": "Delivered",
+        "date": "Pending",
+        "completed": false,
+        "location": "Shipping Address"
+      }
+    ],
+    "items": [
+      {
+        "id": 1,
+        "productId": 1,
+        "name": "Luxury Velvet Sofa",
+        "price": 33217,
+        "quantity": 2,
+        "selectedColor": "Black",
+        "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80"
+      }
+    ],
+    "total": 65105.119999999995,
+    "shippingAddress": {
+      "address": "123 Luxury St",
+      "city": "Noida",
+      "zip": "201301",
+      "type": "Home"
+    },
+    "tax": 11958.119999999999,
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "customer": "Guest User",
+    "customerEmail": "guest@furnishopsy.com"
+  },
+  {
+    "_id": "json_ord_1779184977010",
+    "id": 1779184977010,
+    "orderId": "ORD-8840",
+    "date": "19/5/2026",
+    "status": "Shipped",
+    "currentStage": 2,
+    "tracking": [
+      {
+        "status": "Order Placed",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Local Store"
+      },
+      {
+        "status": "Processing",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Warehouse Hub"
+      },
+      {
+        "status": "Shipped from USA",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Origin Facility"
+      },
+      {
+        "status": "Arrived in Destination Country",
+        "date": "Pending",
+        "completed": false,
+        "location": "Customs Office"
+      },
+      {
+        "status": "Out for Delivery",
+        "date": "Pending",
+        "completed": false,
+        "location": "Local Hub"
+      },
+      {
+        "status": "Delivered",
+        "date": "Pending",
+        "completed": false,
+        "location": "Shipping Address"
+      }
+    ],
+    "items": [
+      {
+        "id": 1,
+        "productId": 1,
+        "name": "Luxury Velvet Sofa",
+        "price": 33693,
+        "quantity": 2,
+        "selectedColor": "Black",
+        "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80"
+      }
+    ],
+    "total": 66038.48,
+    "shippingAddress": {
+      "address": "123 Luxury St",
+      "city": "Noida",
+      "zip": "201301",
+      "type": "Home"
+    },
+    "tax": 12129.48,
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "customer": "Guest User",
+    "customerEmail": "guest@furnishopsy.com"
+  },
+  {
+    "_id": "json_ord_1779186773141",
+    "id": 1779186773141,
+    "orderId": "ORD-4745",
+    "date": "19/5/2026",
+    "status": "Shipped",
+    "currentStage": 2,
+    "tracking": [
+      {
+        "status": "Order Placed",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Local Store"
+      },
+      {
+        "status": "Processing",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Warehouse Hub"
+      },
+      {
+        "status": "Shipped from USA",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Origin Facility"
+      },
+      {
+        "status": "Arrived in Destination Country",
+        "date": "Pending",
+        "completed": false,
+        "location": "Customs Office"
+      },
+      {
+        "status": "Out for Delivery",
+        "date": "Pending",
+        "completed": false,
+        "location": "Local Hub"
+      },
+      {
+        "status": "Delivered",
+        "date": "Pending",
+        "completed": false,
+        "location": "Shipping Address"
+      }
+    ],
+    "items": [
+      {
+        "id": 1,
+        "productId": 1,
+        "name": "Luxury Velvet Sofa",
+        "price": 33693,
+        "quantity": 2,
+        "selectedColor": "Black",
+        "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80"
+      }
+    ],
+    "total": 66038.48,
+    "shippingAddress": {
+      "address": "123 Luxury St",
+      "city": "Noida",
+      "zip": "201301",
+      "type": "Home"
+    },
+    "tax": 12129.48,
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "customer": "Guest User",
+    "customerEmail": "guest@furnishopsy.com"
+  },
+  {
+    "_id": "json_ord_1779187044283",
+    "id": 1779187044283,
+    "orderId": "ORD-6678",
+    "date": "19/5/2026",
+    "status": "Shipped",
+    "currentStage": 2,
+    "tracking": [
+      {
+        "status": "Order Placed",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Local Store"
+      },
+      {
+        "status": "Processing",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Warehouse Hub"
+      },
+      {
+        "status": "Shipped from USA",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Origin Facility"
+      },
+      {
+        "status": "Arrived in Destination Country",
+        "date": "Pending",
+        "completed": false,
+        "location": "Customs Office"
+      },
+      {
+        "status": "Out for Delivery",
+        "date": "Pending",
+        "completed": false,
+        "location": "Local Hub"
+      },
+      {
+        "status": "Delivered",
+        "date": "Pending",
+        "completed": false,
+        "location": "Shipping Address"
+      }
+    ],
+    "items": [
+      {
+        "id": 1,
+        "productId": 1,
+        "name": "Luxury Velvet Sofa",
+        "price": 33693,
+        "quantity": 2,
+        "selectedColor": "Black",
+        "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80"
+      }
+    ],
+    "total": 66038.48,
+    "shippingAddress": {
+      "address": "123 Luxury St",
+      "city": "Noida",
+      "zip": "201301",
+      "type": "Home"
+    },
+    "tax": 12129.48,
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "customer": "Guest User",
+    "customerEmail": "guest@furnishopsy.com"
+  },
+  {
+    "_id": "json_ord_1779187459617",
+    "id": 1779187459617,
+    "orderId": "ORD-2411",
+    "date": "19/5/2026",
+    "status": "Shipped",
+    "currentStage": 2,
+    "tracking": [
+      {
+        "status": "Order Placed",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Local Store"
+      },
+      {
+        "status": "Processing",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Warehouse Hub"
+      },
+      {
+        "status": "Shipped from USA",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Origin Facility"
+      },
+      {
+        "status": "Arrived in Destination Country",
+        "date": "Pending",
+        "completed": false,
+        "location": "Customs Office"
+      },
+      {
+        "status": "Out for Delivery",
+        "date": "Pending",
+        "completed": false,
+        "location": "Local Hub"
+      },
+      {
+        "status": "Delivered",
+        "date": "Pending",
+        "completed": false,
+        "location": "Shipping Address"
+      }
+    ],
+    "items": [
+      {
+        "id": 1,
+        "productId": 1,
+        "name": "Luxury Velvet Sofa",
+        "price": 33693,
+        "quantity": 2,
+        "selectedColor": "Black",
+        "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80"
+      }
+    ],
+    "total": 66038.48,
+    "shippingAddress": {
+      "address": "123 Luxury St",
+      "city": "Noida",
+      "zip": "201301",
+      "type": "Home"
+    },
+    "tax": 12129.48,
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "customer": "Guest User",
+    "customerEmail": "guest@furnishopsy.com"
+  },
+  {
+    "_id": "json_ord_1779187591491",
+    "id": 1779187591491,
+    "orderId": "ORD-9834",
+    "date": "19/5/2026",
+    "status": "Shipped",
+    "currentStage": 2,
+    "tracking": [
+      {
+        "status": "Order Placed",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Local Store"
+      },
+      {
+        "status": "Processing",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Warehouse Hub"
+      },
+      {
+        "status": "Shipped from USA",
+        "date": "19/5/2026",
+        "completed": true,
+        "location": "Origin Facility"
+      },
+      {
+        "status": "Arrived in Destination Country",
+        "date": "Pending",
+        "completed": false,
+        "location": "Customs Office"
+      },
+      {
+        "status": "Out for Delivery",
+        "date": "Pending",
+        "completed": false,
+        "location": "Local Hub"
+      },
+      {
+        "status": "Delivered",
+        "date": "Pending",
+        "completed": false,
+        "location": "Shipping Address"
+      }
+    ],
+    "items": [
+      {
+        "id": 1,
+        "productId": 1,
+        "name": "Luxury Velvet Sofa",
+        "price": 33693,
+        "quantity": 2,
+        "selectedColor": "Black",
+        "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80"
+      }
+    ],
+    "total": 66038.48,
+    "shippingAddress": {
+      "address": "123 Luxury St",
+      "city": "Noida",
+      "zip": "201301",
+      "type": "Home"
+    },
+    "tax": 12129.48,
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "customer": "Guest User",
+    "customerEmail": "guest@furnishopsy.com"
+  }
+]

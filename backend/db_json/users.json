@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "json_user_1779085764581",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Vijay",
+    "createdAt": "2026-05-18T06:29:24.584Z",
+    "name": "Vijay",
+    "email": "vijay@gmail.com",
+    "password": "vijay123"
+  },
+  {
+    "_id": "json_user_1779089837615",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=TestBuyer",
+    "createdAt": "2026-05-18T07:37:17.615Z",
+    "name": "Test Buyer",
+    "email": "buyer@example.com",
+    "password": "password123"
+  },
+  {
+    "_id": "json_user_1779172329221",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=VijayKumar",
+    "createdAt": "2026-05-19T06:32:09.221Z",
+    "role": "admin",
+    "addresses": [],
+    "cart": [],
+    "wishlist": [],
+    "name": "Vijay Kumar",
+    "email": "admin@furnishopsy.com",
+    "mobile": "9876543210",
+    "password": "$2b$10$bm2MGzMTB55FG0MZ15.7yuBHQWHhgvHW4d1iU16zIaLhRYRzu1Nou"
+  },
+  {
+    "_id": "json_user_1779172329300",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=GuestUser",
+    "createdAt": "2026-05-19T06:32:09.300Z",
+    "role": "user",
+    "addresses": [],
+    "cart": [
+      {
+        "id": 1,
+        "productId": 1,
+        "name": "Luxury Velvet Sofa",
+        "price": 33693,
+        "quantity": 2,
+        "selectedColor": "Black",
+        "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80"
+      }
+    ],
+    "wishlist": [],
+    "name": "Guest User",
+    "email": "guest@furnishopsy.com",
+    "mobile": "9999999999",
+    "password": "$2b$10$oZoW0gVN04cLTORtFhRQBeY7B5sipcyDbo3kF456gXnKJeQxBWqiu"
+  },
+  {
+    "_id": "json_user_1779186699763",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Viji",
+    "createdAt": "2026-05-19T10:31:39.763Z",
+    "role": "user",
+    "addresses": [],
+    "cart": [],
+    "wishlist": [],
+    "name": "Viji",
+    "email": "vvijayalakshmi652@gmail.com",
+    "mobile": "9087829001",
+    "password": "$2b$10$Hy1Sj9CWCzYIbpfwmy02b.OEk2kyb9KqpQzi6J5SRa00fqFMfrNSS"
+  }
+]
